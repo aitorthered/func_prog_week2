@@ -1,2 +1,2 @@
-# func_prog_week2
-Functional Programming Principles in Scala. Week 3
+# func_prog_week4
+Functional Programming Principles in Scala. Week 4
